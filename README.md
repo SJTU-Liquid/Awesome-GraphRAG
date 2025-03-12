@@ -19,13 +19,14 @@ A list of papers for Graph Retrieval-Augmented Generation (GraphRAG).
 
 ## GraphRAG Frameworks
 
-- GraphRAG [[paper]](https://arxiv.org/pdf/2404.16130) - Propose a framework that retrieves knowledge from private corpus, build knowledge graph, generate communities to generate comprehensive and diverse answers.
-- LEGO-GraphRAG [[paper]](https://arxiv.org/pdf/2411.05844) - Modularizing graph-based retrieval with interconnected modules: subgraph-extraction, path-filtering, and path-refinement.
-- SimGRAG [[paper]](https://arxiv.org/pdf/2412.15272) - Retrieves "similar subgraphs" in knowledge graphs, focusing on matching and reusing analogous structures.
-- HybridRAG [[paper]](https://arxiv.org/pdf/2408.04948) - Integrates graph-based and vector-based retrieval methods.
-- LIGHTRAG [[paper]](https://arxiv.org/pdf/2410.05779) - Introduces lightweight, high-speed graph rag implementations.
-- GNN-RAG [[paper]](https://arxiv.org/pdf/2405.20139) - EMNLP '23: Uses Graph Neural Networks to improve graph-based retrieval.
-- HippoRAG [[paper]](https://arxiv.org/pdf/2405.14831) - Framework inspired by the hippocampal indexing theory of human long-term memory to enable deeper and more efficient knowledge integration over new experiences.
+- GraphRAG [[paper]](https://arxiv.org/pdf/2404.16130) [[code]](https://github.com/microsoft/graphrag) - Propose a framework that retrieves knowledge from private corpus, build knowledge graph, generate communities to generate comprehensive and diverse answers.
+- HippoRAG [[paper]](https://arxiv.org/pdf/2405.14831) [[code]](https://github.com/OSU-NLP-Group/HippoRAG)- NeurIPS '24: HippoRAG inspired by the hippocampal indexing theory of human long-term memory to enable deeper and more efficient knowledge integration over new experiences.
+- HippoRAG 2 [[paper]](https://arxiv.org/pdf/2502.14802) [[code]](https://github.com/OSU-NLP-Group/HippoRAG)- HippoRAG 2 enhances the original HippoRAG framework by implementing deeper passage integration and more effective online utilization of large language models (LLMs).
+- LightRAG [[paper]](https://arxiv.org/pdf/2410.05779) [[code]](https://github.com/HKUDS/LightRAG)- Introduces lightweight, high-speed graph rag implementations.
+- LEGO-GraphRAG [[paper]](https://arxiv.org/pdf/2411.05844) [[code]](https://github.com/gzy02/LEGO-GraphRAG) - Modularizing graph-based retrieval with interconnected modules: subgraph-extraction, path-filtering, and path-refinement.
+- SimGRAG [[paper]](https://arxiv.org/pdf/2412.15272) [[code]](https://github.com/YZ-Cai/SimGRAG) - Retrieves "similar subgraphs" in knowledge graphs, focusing on matching and reusing analogous structures.
+- HybridRAG [[paper]](https://arxiv.org/pdf/2408.04948) [[code]](https://github.com/nvidia/workbench-example-hybrid-rag) - Integrates graph-based and vector-based retrieval methods.
+- GNN-RAG [[paper]](https://arxiv.org/pdf/2405.20139) [[code]](https://github.com/cmavro/GNN-RAG)- EMNLP '23: Uses Graph Neural Networks to improve graph-based retrieval.
 
 ## Retrievers
 
