@@ -16,6 +16,7 @@ A list of papers for Graph Retrieval-Augmented Generation (GraphRAG).
 - Retrieval-Augmented Generation with Graphs (GraphRAG) [[paper]](https://arxiv.org/pdf/2501.00309v2)
 - Unifying Large Language Models and Knowledge Graphs: A Roadmap [[paper]](https://arxiv.org/pdf/2306.08302v3)
 - A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models [[paper]](https://arxiv.org/pdf/2501.13958)
+- RAG vs. GraphRAG: A Systematic Evaluation and Key Insights [[paper]](https://arxiv.org/pdf/2502.11371)
 
 ## GraphRAG Frameworks
 
